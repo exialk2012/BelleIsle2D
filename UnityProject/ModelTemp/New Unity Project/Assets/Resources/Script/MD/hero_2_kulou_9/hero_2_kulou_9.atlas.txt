@@ -1,0 +1,104 @@
+
+hero_2_kulou_9.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hero_2_kulou_9/chest
+  rotate: false
+  xy: 101, 28
+  size: 36, 34
+  orig: 36, 34
+  offset: 0, 0
+  index: -1
+hero_2_kulou_9/crotch
+  rotate: false
+  xy: 173, 17
+  size: 41, 20
+  orig: 41, 20
+  offset: 0, 0
+  index: -1
+hero_2_kulou_9/head
+  rotate: false
+  xy: 2, 23
+  size: 47, 39
+  orig: 47, 39
+  offset: 0, 0
+  index: -1
+hero_2_kulou_9/head_2
+  rotate: false
+  xy: 173, 39
+  size: 42, 23
+  orig: 42, 23
+  offset: 0, 0
+  index: -1
+hero_2_kulou_9/left_hand
+  rotate: false
+  xy: 51, 21
+  size: 15, 9
+  orig: 15, 9
+  offset: 0, 0
+  index: -1
+hero_2_kulou_9/left_jian
+  rotate: false
+  xy: 2, 2
+  size: 13, 19
+  orig: 13, 19
+  offset: 0, 0
+  index: -1
+hero_2_kulou_9/left_jiao
+  rotate: true
+  xy: 68, 19
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+hero_2_kulou_9/left_tui
+  rotate: false
+  xy: 17, 5
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+hero_2_kulou_9/left_weapon
+  rotate: false
+  xy: 139, 28
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+hero_2_kulou_9/right_hand
+  rotate: false
+  xy: 241, 44
+  size: 11, 18
+  orig: 11, 18
+  offset: 0, 0
+  index: -1
+hero_2_kulou_9/right_jian
+  rotate: false
+  xy: 217, 45
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+hero_2_kulou_9/right_jiao
+  rotate: true
+  xy: 84, 19
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+hero_2_kulou_9/right_tui
+  rotate: false
+  xy: 33, 5
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+hero_2_kulou_9/right_weapon
+  rotate: false
+  xy: 51, 32
+  size: 48, 30
+  orig: 48, 30
+  offset: 0, 0
+  index: -1
